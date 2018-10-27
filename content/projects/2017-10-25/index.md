@@ -1,9 +1,9 @@
 ---
-client: "BlobSphere"
-title: "BlobSphere - Make Spheres blob!"
+client: "Another thing"
+title: "Here's another thing to look at"
 cover: "./blobSphere.jpg"
 date: "2017-10-25"
-service: "App Design"
+service: "Photography"
 ---
 # Description
 

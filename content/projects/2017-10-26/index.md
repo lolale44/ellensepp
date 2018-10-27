@@ -1,9 +1,9 @@
 ---
-client: "CubeRound"
-title: "CubeRound - Make Cubes round!"
+client: "A Thing here"
+title: "Here look at the thing"
 cover: "./cubeRound.jpg"
 date: "2017-10-26"
-service: "Website"
+service: "Furniture design"
 ---
 # Description
 

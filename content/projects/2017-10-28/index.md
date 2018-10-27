@@ -1,9 +1,9 @@
 ---
-client: "LekoArts"
-title: "LekoArts - Your theme creator!"
+client: "Untitled 969798999"
+title: "Couldn't Think Of A Name For This One"
 cover: "./lekoarts.jpg"
 date: "2017-10-28"
-service: "Theme"
+service: "Site Specific Artwork"
 ---
 # Description
 
