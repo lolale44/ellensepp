@@ -5,17 +5,17 @@ cover: "./pilt4.jpg"
 date: "2017-10-25"
 service: "Photography"
 ---
-![](.1/2/pilt6.jpg)
+![](./pilt6.jpg)
 
 ![](./pilt7.jpg)
 
 ![](./pilt8.jpg)
 
-![](./pilt9.jpg)
+![](./pilt9.jpg//)
 
 ![](./pilt10.jpg)
 
-![](./pilt11.jpg)
+![](./pilt11.jpg//)
 
 ![](./pilt12.jpg)
 
@@ -37,4 +37,4 @@ service: "Photography"
 
 ![](./pilt21.jpg)
 
-![](./pilt22.jpg)
+![](./pilt22.jpg//)
