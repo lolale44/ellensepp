@@ -5,7 +5,7 @@ cover: "./pilt4.jpg"
 date: "2017-10-25"
 service: "Photography"
 ---
-![](./pilt6.jpg)
+1/2![](./pilt6.jpg)
 
 ![](./pilt7.jpg)
 
