@@ -3,7 +3,6 @@
 title: "Landmiles"
 background: "./pilt4.jpg"
 cover: "./pilt4.jpg"
-date: "2017-10-25"
 service: "Photography"
 ---
 ![](./pilt6.jpg)
@@ -38,4 +37,4 @@ service: "Photography"
 
 ![](./pilt21.jpg)
 
-![](./pilt22.jpg//)
+![](./pilt22.jpg)
