@@ -1,7 +1,7 @@
 ---
 client: "Me"
 title: "Yo ho"
-cover: "./blobSphere.jpg"
+cover: "./image (1).png"
 date: "2019-02-07"
 service: "Photography"
 ---
