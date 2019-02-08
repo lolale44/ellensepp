@@ -14,9 +14,6 @@ service: "Photography"
 
 
 
-![](./pilt10.jpg)
-
-
 
 ![](./pilt11.jpg)
 
@@ -40,9 +37,6 @@ service: "Photography"
 
 ![](./pilt16.jpg)
 
-
-
-![](./pilt17.jpg)
 
 
 
