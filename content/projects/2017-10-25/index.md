@@ -11,11 +11,11 @@ service: "Photography"
 
 ![](./pilt8.jpg)
 
-![](./pilt9.jpg//)
+![](./pilt9.jpg)
 
 ![](./pilt10.jpg)
 
-![](./pilt11.jpg//)
+![](./pilt11.jpg)
 
 ![](./pilt12.jpg)
 
