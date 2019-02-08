@@ -1,9 +1,8 @@
 
 
-title: "Landmiles"
-background: "./pilt4.jpg"
-cover: "./pilt4.jpg"
-service: "Photography"
+ "Landmiles"
+
+
 ---
 ![](./pilt6.jpg)
 
