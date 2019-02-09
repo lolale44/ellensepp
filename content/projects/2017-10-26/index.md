@@ -82,50 +82,50 @@ h1 {
 <!-- MAIN (Center website) -->
 <div class="main">
 
-<h1>MYLOGO.COM</h1>
+<h1>i dont have money to buy my paint</h1>
 <hr>
 
-<h2>PORTFOLIO</h2>
+<h2>ANTIPORTFOLIO</h2>
 <p>Resize the browser window to see the responsive effect.</p>
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
   <div class="column">
     <div class="content">
-      <img src="/w3images/pilt11.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <img src="pilt11.jpg" alt="Mountains" style="width:100%">
+      <h3>need</h3>
+      <p>1.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/pilt12.jpg" alt="Lights" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="pilt12.jpg" alt="Lights" style="width:100%">
+      <h3>wish</h3>
+      <p>2.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/pilt13.jpg" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+    <img src="pilt13.jpg" alt="Nature" style="width:100%">
+      <h3>still</h3>
+      <p>3.</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
     <img src="pilt14.jpg" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+      <h3>here</h3>
+      <p>11.</p>
     </div>
   </div>
 <!-- END GRID -->
 </div>
 
 <div class="content">
-  <img src="/w3images/pilt15.jpg" alt="Bear" style="width:100%">
-  <h3>Some Other Work</h3>
-  <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
-  <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
+  <img src="pilt15.jpg" alt="Bear" style="width:100%">
+  <h3>4.</h3>
+  <p>.</p>
+  <p>.</p>
 </div>
 
 <!-- END MAIN -->
