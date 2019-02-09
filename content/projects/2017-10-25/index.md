@@ -1,9 +1,8 @@
-
-
- "Landmiles"
-
-
 ---
+cover: "./pilt11.jpg"
+title: "Landmiles"
+---
+
 ![](./pilt6.jpg)
 
 
