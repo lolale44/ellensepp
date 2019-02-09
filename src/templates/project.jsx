@@ -52,7 +52,7 @@ const Project = ({ pageContext: { slug }, data: { markdownRemark: postNode } }) 
       <SEO postPath={slug} postNode={postNode} postSEO />
       <Wrapper style={{ backgroundColor: overlayColor }}>
         <h1>{project.title}</h1>
-        <InformationWrapper>
+        {/*<InformationWrapper>
           <InfoBlock>
             <Top>Client</Top>
             <Bottom>{project.client}</Bottom>
@@ -65,7 +65,7 @@ const Project = ({ pageContext: { slug }, data: { markdownRemark: postNode } }) 
             <Top>Service</Top>
             <Bottom>{project.service}</Bottom>
           </InfoBlock>
-        </InformationWrapper>
+        </InformationWrapper>*/
       </Wrapper>
       <Container type="text">
         <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
