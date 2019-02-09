@@ -1,5 +1,5 @@
 ---
-cover: "./pilt11.jpg"
+cover: "./pilt6.jpg"
 title: "Landmiles"
 ---
 
