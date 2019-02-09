@@ -1,8 +1,7 @@
 ---
 cover: "./pilt11.jpg"
+title: I don't have money to buy paint
 ---
-
-i don't have money to buy paint
 
 # help
 
