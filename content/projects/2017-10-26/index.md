@@ -113,7 +113,7 @@ h1 {
   </div>
   <div class="column">
     <div class="content">
-    <img src="/w3images/pilt14.jpg" alt="Mountains" style="width:100%">
+    <img src="pilt14.jpg" alt="Mountains" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>
     </div>
