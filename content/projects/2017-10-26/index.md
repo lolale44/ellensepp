@@ -1,8 +1,8 @@
 
 
 ---
-cover: "./pilt11.jpg"
-title: I don't have money to buy paint
+cover: "pilt11.jpg"
+title: I don't have money to buy my paint
 ---
 
 <!-- MAIN (Center website) -->
