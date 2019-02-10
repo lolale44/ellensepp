@@ -1,22 +1,22 @@
 ---
 client: "0"
 title: "ANTIPORTFOLIO"
-cover: "./pilt11.jpg"
+cover: "./5.jpg"
 date: "2017-10-28"
 service: "Site Specific Artwork"
 ---
-# i dont have money to buy my paint
+# 
 
 
 
-![](./pilt14.jpg)
+![](./1.jpg)
 wish
 
-![](./pilt12.jpg)
+![](./2.jpg)
 need
 
-![](./pilt13.jpg)
+![](./3.jpg)
 still
 
-![](./pilt15.jpg)
+![](./4.jpg)
 here
