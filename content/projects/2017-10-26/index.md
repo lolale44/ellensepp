@@ -1,7 +1,10 @@
 
 
 
-
+---
+cover: "pilt11.jpg"
+title: I don't have money to buy my paint
+---
 <!-- MAIN (Center website) -->
 <div class="main">
 
@@ -9,7 +12,7 @@
 <hr>
 
 <h2>ANTIPORTFOLIO</h2>
-<p>i don't have money to buy my paint.</p>
+
 
 <!-- Portfolio Gallery Grid -->
 <div class="row">
