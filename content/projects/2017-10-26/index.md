@@ -1,16 +1,17 @@
 
 
----
-cover: "pilt11.jpg"
-title: I don't have money to buy my paint
----
+
+
 
 <!-- MAIN (Center website) -->
 <div class="main">
 
 <h1>h e l p</h1>
 <hr>
-
+---
+cover: "./pilt15.jpg"
+title: "antiportfolio"
+---
 <h2>ANTIPORTFOLIO</h2>
 
 
