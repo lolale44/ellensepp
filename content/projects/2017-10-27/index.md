@@ -1,10 +1,10 @@
 ---
 client: "Moving Pictures"
 title: "Presented Ih Glorious Technicolor And Stereoscopic Sound!!!"
-cover: "./smartTriangle.jpg"
+cover: "./g.jpg"
 date: "2017-10-27"
 service: "Video Installation"
-![](g.jpg)
+
 ---
 # Qigong
 
