@@ -1,15 +1,22 @@
 ---
-client: "Untitled 969798999"
-title: "Couldn't Think Of A Name For This One"
-cover: "./lekoarts.jpg"
+client: "0"
+title: "ANTIPORTFOLIO"
+cover: "./pilt11.jpg"
 date: "2017-10-28"
 service: "Site Specific Artwork"
 ---
-# Description
+# i dont have money to buy my paint
 
-Hi!
-I hope you like this theme and enjoy working with it. I've also made other themes! You can check them out here: [Gatsby Starters](https://www.gatsbyjs.org/docs/gatsby-starters/).
 
-If you want to see more of my work I recommend visiting my [personal portfolio](https://www.lekoarts.de). By pledging to my [patreon campaign](https://www.patreon.com/lekoarts) you help me making more themes and creating more tutorials. Thanks!
 
-![](./lekoarts.jpg)
+![](./pilt14.jpg)
+wish
+
+![](./pilt12.jpg)
+need
+
+![](./pilt13.jpg)
+still
+
+![](./pilt15.jpg)
+here
