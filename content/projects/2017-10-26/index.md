@@ -3,16 +3,11 @@
 
 
 
-<!-- MAIN (Center website) -->
-<div class="main">
-
-<h1>h e l p</h1>
-<hr>
 ---
-cover: "./pilt15.jpg"
+cover: "./pilt12.jpg"
 title: "antiportfolio"
 ---
-<h2>ANTIPORTFOLIO</h2>
+
 
 
 <!-- Portfolio Gallery Grid -->
