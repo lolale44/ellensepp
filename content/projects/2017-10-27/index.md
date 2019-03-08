@@ -1,12 +1,8 @@
 ---
-client: "Moving Pictures"
-title: "Presented Ih Glorious Technicolor And Stereoscopic Sound!!!"
-cover: "./g.jpg"
-date: "2017-10-27"
-service: "Video Installation"
-
+cover: "./still.jpg"
+title: "# Qigong"
 ---
-# Qigong
 
-https://youtu.be/7W0fVxJBK2k
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7W0fVxJBK2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
