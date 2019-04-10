@@ -1,8 +1,3 @@
-
-
-
-
-
 ---
 cover: "./pilt12.jpg"
 title: "antiportfolio"
