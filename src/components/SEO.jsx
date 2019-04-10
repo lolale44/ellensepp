@@ -15,12 +15,14 @@ const SEO = props => {
     const postMeta = postNode.frontmatter;
     title = postMeta.title; // eslint-disable-line prefer-destructuring
     description = postNode.excerpt;
+    image = postMeta.cover.childImageSharp.resize.src;
     postURL = config.siteUrl + realPrefix + postPath;
   } else {
     title = config.siteTitle;
     description = config.siteDescription;
+    image = config.siteLogo;
   }
-  image = config.siteUrl + realPrefix + config.siteLogo;
+  image = config.siteUrl + realPrefix + image;
   const blogURL = config.siteUrl + config.pathPrefix;
   let schemaOrgJSONLD = [
     {
