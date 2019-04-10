@@ -1,5 +1,5 @@
 ---
-cover: "./still.jpg"
+cover: "./g.jpg"
 title: "# Qigong"
 ---
 
